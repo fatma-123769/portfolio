@@ -72,7 +72,7 @@ export function Hero() {
                 <Github className="h-4 w-4" />
               </a>
               <a
-                href="https://www.linkedin.com/in/FatmaEzzahraHadhri"
+                href="https://www.linkedin.com/in/fatma-ezzahra-hadhri-579075354/"
                 target="_blank"
                 rel="noreferrer"
                 className="rounded-full border border-white/15 bg-white/5 p-3 backdrop-blur transition hover:bg-white/10"

@@ -7,8 +7,8 @@ const CONTACT = {
   phone: "+216 26 373 512",
   email: "hadhrifatma75@gmail.com",
   address: "Route Mahdia Km 2.5, Sfax",
-  linkedin: "https://www.linkedin.com/feed/",
-  linkedinLabel: "linkedin.com/in/FatmaEzzahraHadhri",
+  linkedin: "https://www.linkedin.com/in/fatma-ezzahra-hadhri-579075354/",
+  linkedinLabel: "linkedin.com/in/fatma-ezzahra-hadhri-579075354",
 };
 
 const PROJECTS = [

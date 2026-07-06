@@ -165,7 +165,7 @@ export function Contact() {
             GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/FatmaEzzahraHadhri"
+            href="https://www.linkedin.com/in/fatma-ezzahra-hadhri-579075354/"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.02] px-5 py-2.5 text-sm backdrop-blur-sm transition hover:border-white/25 hover:bg-white/[0.05]"
