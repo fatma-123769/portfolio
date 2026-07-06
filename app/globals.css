@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: 222 47% 5%;
+  --fg: 210 20% 98%;
+  --muted: 217 10% 65%;
+  --accent: 258 90% 66%;
+  --border: 217 20% 15%;
+}
+
+html,
+body {
+  background: hsl(var(--bg));
+  color: hsl(var(--fg));
+  overscroll-behavior: none;
+}
+
+body {
+  font-family: var(--font-space-grotesk), system-ui, sans-serif;
+  cursor: none;
+}
+
+@media (pointer: coarse) {
+  body {
+    cursor: auto;
+  }
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Star twinkle animation */
+@keyframes twinkle {
+  0%, 100% { opacity: var(--twinkle-min, 0.3); }
+  50%      { opacity: 1; }
+}
+
+/* Keyboard container helper — the 3D transform is applied inline in the component */
